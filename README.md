@@ -1,5 +1,5 @@
 [![Build Status](http://3.110.43.167:8080/buildStatus/icon?job=BuildStatus)](http://3.110.43.167:8080/job/BuildStatus/)
-#  [info]: Sample Maven Application: maven-employee-web-application-forked
+#  [info]: Sample Maven Application: maven-employee-web-application
 maven-employee-web-application.
 
 ### References
